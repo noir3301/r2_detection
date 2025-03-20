@@ -1,0 +1,7 @@
+PyQt6~=6.8.0
+keyboard~=0.13.5
+pillow~=11.1.0
+pynput~=1.7.7
+numpy~=2.2.1
+ultralytics~=8.3.56
+mouse~=0.7.1
