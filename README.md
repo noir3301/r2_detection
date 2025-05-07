@@ -18,6 +18,4 @@ python r2_detection/main_farm.py
 
 ## Usage
 
-```md
-![screenshot](assets/images/detect.png)
-```
+![screenshot](assets/images/detect.jpg)
