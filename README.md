@@ -19,5 +19,5 @@ python r2_detection/main_farm.py
 ## Usage
 
 ```md
-![screenshot](/assets/images/detect.jpg?raw=true)
+![screenshot](/assets/images/detect.png)
 ```
