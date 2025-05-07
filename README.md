@@ -11,6 +11,8 @@ which varies depending on the game client and screen resolution.
 ## Installation
 
 Python 3.10.11 is required.
+
+Install dependencies with:
 ```
 pip install -r r2_detection/requirements.txt
 ```
