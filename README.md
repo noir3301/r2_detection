@@ -18,4 +18,5 @@ python r2_detection/main_farm.py
 
 ## Usage
 
+After running, click on the skull icon that appears.
 ![screenshot](assets/images/detect.jpg)
