@@ -19,7 +19,8 @@ pip install -r r2_detection/requirements.txt
 
 Run the game and choose a character.
 
-Run the script
+Run the main script with:
+
 `python r2_detection/main_farm.py`
 
 After running, click on the skull icon that appears.
