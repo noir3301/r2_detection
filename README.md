@@ -19,5 +19,5 @@ python r2_detection/main_farm.py
 ## Usage
 
 ```md
-![screenshot](https://github.com/noir3301/r2_detection/blob/main/assets/images/detect.jpg?raw=true)
+![screenshot](/assets/images/detect.jpg?raw=true)
 ```
